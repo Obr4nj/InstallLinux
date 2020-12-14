@@ -108,5 +108,7 @@ Volume is corrupt. You should run chkdsk.
 Tôi không tìm được `/etc/fstab` và `/etc/crypttab`, tôi nghĩ do thiếu 2 cái đó nên không fix được.
 
 ## Thử trên windows
+
 Không có tác dụng gì :(
-[fix-on-windows](https://github.com/Obr4nj/InstallLinux/blob/main/fix-on-windows.png)
+
+![fix-on-windows](https://github.com/Obr4nj/InstallLinux/blob/main/fix-on-windows.png)
