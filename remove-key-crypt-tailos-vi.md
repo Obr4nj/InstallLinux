@@ -1,3 +1,4 @@
+**Tails OS 4.13**
 ## Using UI
 
 Đầu tiên, tôi thử làm theo hướng dẫn trên [trang của Tails OS](https://tails.boum.org/doc/first_steps/persistence/use/index.en.html) nhưng khi load unlock rất lâu nên tôi quyết định khởi động lại để vào hệ điều hành.
@@ -29,7 +30,7 @@ và tôi lại thấy nó load không nghừng như khi mở khoá ở bên ngo�
 ## Fix using terminal
 Sau đó tôi đã lên mạng tìm cách khác và tôi thử trên terminal:
 
-```linux command
+```console
 root@amnesia:~# lsblk -a
 NAME                                          MAJ:MIN RM   SIZE RO TYPE  MOUNTPOINT
 loop0                                           7:0    0     1G  1 loop  /lib/live/mount/rootfs/filesystem.squashfs
