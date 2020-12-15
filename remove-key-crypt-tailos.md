@@ -29,7 +29,7 @@ and I get the same when unlock when start OS, this load non-stop
 ## Fix using terminal
 I search on internet, I check some command-line:
 
-```linux command
+```console
 root@amnesia:~# lsblk -a
 NAME                                          MAJ:MIN RM   SIZE RO TYPE  MOUNTPOINT
 loop0                                           7:0    0     1G  1 loop  /lib/live/mount/rootfs/filesystem.squashfs
